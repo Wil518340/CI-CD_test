@@ -1,2 +1,1 @@
-# CI-CD_test
-Test CI/CD
+# ci-cd-pipeline-getting-started
